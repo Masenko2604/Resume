@@ -212,7 +212,7 @@ body {
 /* sidebar styles */
 
 .sidebar {
-  background-color: #1e2939;
+  background-color: #052a32;
   width: 370px;
 }
 
@@ -343,24 +343,12 @@ body {
   margin-left: 40px;
 }
 
-/* .join-in-title {
-  margin-left: 40px;
-  color: #ffffff;
-  text-decoration: none;
-  text-align: left;
-  margin-bottom: 20px;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 1.14;
 
-} */
 
 .join-in-list {
   display: flex;
   justify-content: flex-start;
   list-style: none;
-  /* margin-left: 40px; */
 }
 
 .join-in-button {
