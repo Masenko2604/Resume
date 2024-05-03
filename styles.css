@@ -3,8 +3,6 @@ body {
   background-color: #ffffff;
 }
 
-/* main styles */
-
 .main {
   display: flex;
   flex-direction: row-reverse;
@@ -17,8 +15,6 @@ body {
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
   padding: 105px 90px;
 }
-
-/* about styles */
 
 .about {
   margin-bottom: 40px;
@@ -56,16 +52,9 @@ body {
   width: 440px;
 }
 
-/* projects styles */
-
 .projects {
   margin-bottom: 50px;
-
-  /* margin: 100px 90px 300px 60px;
-
-    margin: 50px;
-
-    margin: 100px 50px; */
+  
 }
 
 .title {
@@ -110,9 +99,6 @@ body {
   line-height: 24px;
   color: #000000;
 }
-
-/* work styles */
-
 
 
 .work_position {
@@ -168,7 +154,7 @@ body {
   color: #595959;
 }
 
-/* education style */
+
 
 .education {
   font-style: normal;
@@ -369,16 +355,16 @@ body {
 .join-in-button:hover,
 .join-in-button:focus {
   background: #fb6d3a;
-  /* fill: #000000; */
+  
 }
 
 .join-in-button:hover>.join-in-link {
-  /* background: #fb6d3a; */
+
   fill: #000000;
 }
 
 .join-in-button:focus>.join-in-link {
-  /* background: #fb6d3a; */
+ 
   fill: #000000;
 }
 
@@ -391,10 +377,3 @@ body {
   height: 20px;
 }
 
-/* .join-in-link:hover,
-.join-in-link:focus {
-  fill: #000000;
-  background: #fb6d3a;
-} */
-
-/* the end */
